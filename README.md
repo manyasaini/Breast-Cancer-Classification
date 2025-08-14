@@ -46,7 +46,7 @@ The project demonstrates strong skills in data preprocessing, feature engineerin
 </p>
 
 <p align="center">
-  <strong>Feature Importances</strong><br>
+  <strong>Features</strong><br>
   <img src="Screenshots/3%20-%20Features.jpeg" width="600">
 </p>
 
