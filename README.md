@@ -31,4 +31,22 @@ The project demonstrates strong skills in data preprocessing, feature engineerin
   - Classification Report (Precision, Recall, F1-Score)
   - Feature Importance Ranking
 
-Example output:
+---
+
+## Output
+
+<p align="center">
+  <strong>Accuracy & Classification Report</strong><br>
+  <img src="Screenshots/1%20-%20Accuracy%20&%20Report.jpeg" width="600">
+</p>
+
+<p align="center">
+  <strong>Confusion Matrix</strong><br>
+  <img src="Screenshots/2%20-%20Confusion%20Matrix.jpeg" width="600">
+</p>
+
+<p align="center">
+  <strong>Feature Importances</strong><br>
+  <img src="Screenshots/3%20-%20Features.jpeg" width="600">
+</p>
+
